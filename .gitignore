@@ -1,0 +1,28 @@
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+env/
+
+# IDE configuration folders
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Large data files - 我们不希望把数据库文件上传到GitHub
+data/*.db
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+.specstory/
+.cursorindexingignore 
