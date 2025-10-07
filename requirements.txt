@@ -1,0 +1,11 @@
+vanna
+streamlit
+python-dotenv
+sqlite3
+openai
+kagglehub
+pandas
+numpy
+pymilvus[model]
+vanna[milvus]
+langchain-openai
