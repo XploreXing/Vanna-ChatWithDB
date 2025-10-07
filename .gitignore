@@ -18,7 +18,7 @@ env/
 .streamlit/secrets.toml
 
 # Large data files - 我们不希望把数据库文件上传到GitHub
-data/*.db
+data/db/*.db
 
 # OS-specific files
 .DS_Store
